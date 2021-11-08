@@ -16,3 +16,7 @@
 #terraform apply
 #terraform destroy
 
+#after connecting to jenkins witb ip-address:8080
+
+#copy key from terrafom logs and paste it in the jenkins
+
