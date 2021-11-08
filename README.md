@@ -9,3 +9,10 @@
 
 
 #note: need to modify(key, region of aws) some configuration in main.tf file for user
+
+#commands
+#aws configure
+#terraform validate
+#terraform apply
+#terraform destroy
+
